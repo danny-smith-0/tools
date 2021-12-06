@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "iosfwd": "cpp",
+        "cmath": "cpp"
+    }
+}
